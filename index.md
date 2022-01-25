@@ -1,9 +1,12 @@
 # CV Quentin YZET
+ 
+ > Le meilleur alternant en communication 😇
+
 
 ##### yzetquentin@gmail.com 
 ##### Rouen, France - Permis B
 
-## <center>FORMATIONS
+## <center> FORMATIONS
 
 ### Mastère Communication Corporate
 
@@ -17,7 +20,7 @@
 
 * *2018 - 2020 - IUT Caucriauville - Rouen*
 
-## <center>EXPÉRIENCES PROFESSIONNELLES
+## <center> EXPÉRIENCES PROFESSIONNELLES
 
 ### Chef de Projet Digital - Alternance
 
@@ -43,11 +46,13 @@
 
 ## <center> LOGICIELS
 
-* Canva
-* Suite Adobe
-* Gantt Project
-* SAP
-* GIMP
+| Logiciels de création        | Logiciels de projet          |
+| :--------------- |:---------------:|
+| Canva  |   SAP       | 
+| Photoshop  | Gantt project             |
+| InDesign  | Slack          |
+| GIMP  | Suite Microsoft          |
+
 
 ## <center> CENTRES D'INTÉRÊTS
 
